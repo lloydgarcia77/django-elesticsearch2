@@ -1,0 +1,2 @@
+Requirement already satisfied: elasticsearch in c:\users\lloydqueen\anaconda3\envs\py39\lib\site-packages (1.9.0)
+Requirement already satisfied: urllib3<2.0,>=1.8 in c:\users\lloydqueen\anaconda3\envs\py39\lib\site-packages (from elasticsearch) (1.26.2)
